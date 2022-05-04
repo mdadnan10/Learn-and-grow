@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Learn and Grow</string>
+    <string name="update_your_profile">Update your profile</string>
+    <string name="change">change</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="numbers">Numbers</string>
+    <string name="mp_tables">MP Tables</string>
+    <string name="practice">Practice</string>
+    <string name="letters">Letters</string>
+    <string name="words">Words</string>
+    <string name="exit_from_app">Exit From App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="count">Count 0 to 9</string>
+    <string name="write_words">Write Words</string>
+    <string name="learn_a_to_z">Learn A to Z</string>
+    <string name="equal">=</string>
+    <string name="learn_words">Learn Words</string>
+    <string name="write">Write</string>
+    <string name="correct_answer">Correct Answer =</string>
+</resources>

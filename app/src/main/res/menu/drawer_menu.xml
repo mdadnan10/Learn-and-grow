@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btnMenuHome"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/btnMenuNumbers"
+            android:icon="@drawable/ic_numbers"
+            android:title="@string/numbers" />
+
+        <item
+            android:id="@+id/btnMenuMpTable"
+            android:icon="@drawable/ic_mp_table"
+            android:title="@string/mp_tables" />
+
+        <item
+            android:id="@+id/btnMenuPractice"
+            android:icon="@drawable/ic_practice"
+            android:title="@string/practice" />
+
+        <item
+            android:id="@+id/btnMenuLetters"
+            android:icon="@drawable/ic_letters"
+            android:title="@string/letters" />
+
+        <item
+            android:id="@+id/btnMenuLettersFor"
+            android:icon="@drawable/ic_words"
+            android:title="@string/words" />
+
+        <item
+            android:id="@+id/btnMenuWriteWords"
+            android:icon="@drawable/ic_write_words"
+            android:title="@string/write_words" />
+
+        <item
+            android:id="@+id/btnClearExit"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/exit_from_app" />
+    </group>
+
+</menu>
